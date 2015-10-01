@@ -1,0 +1,81 @@
+*{
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+body{
+  background-image: url("http://mbradon.com/wp-content/uploads/2013/05/Background-Texture-Spots-Faded.jpg");
+}
+
+.container-resume{
+  background-color:;
+  width: 800px;
+  margin: auto;
+  padding:25px;
+  float: center;
+  border-right-style: solid;
+  border-width:5px;
+  border-left-style: solid;
+  border-color:darkblue;
+  border-width:5px;
+}
+
+.hr{
+  color:blue;
+  width:12px;
+  float: left;
+}
+
+.headline-section{
+  color:blue;
+  width:800px;
+  float:left;
+}
+
+.section-resume{
+  padding:50px;
+  margin: 20px;
+  height:500px;
+  padding:12px;
+  align:left;
+  border-right-style: solid;
+  border-color:darkblue;
+  border-width:5px;
+  border-left-style: solid;
+  border-color:darkblue;
+  border-width:5px;
+  float:center
+}
+
+.line-separator{
+  height:1px;
+  background:#717171;
+  padding: 3px;
+  background-color:darkblue
+}
+
+.education-section{
+  align:left;
+  border:12px;
+  float:left;
+  border-right-style: solid;
+  border-color:darkblue;
+  border-width:5px;
+  float:left
+}
+.boxed{
+  border:1px dark blue
+}
+
+
+
+
+
+
+
+
+
+
+
+
